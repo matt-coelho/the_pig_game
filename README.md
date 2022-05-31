@@ -1,2 +1,3 @@
 # the_pig_game
-fun roll the dice game
+a fun roll the dice game
+done during the udemy course udemy.com/course/the-complete-javascript-course/
